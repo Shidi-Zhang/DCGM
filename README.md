@@ -1,12 +1,6 @@
 <h1 align="center"><b>DCGM</b></h1>
 
 
-Official implementation for our paper:
-
-`Enhanced drug recommendation based on dynamic clinical trajectory aggregation and geometry-enhanced molecular representation `
-
-
-
 ## Folder Specification
 
 - `data/input/` folder contains necessary data or scripts for generating data.
